@@ -1,5 +1,5 @@
-# Challenge 13 Working
- Challenge 13 in which we add the products data in the database by using the command npm start seed then clost the server
+#ORM-E-commerce-back-end
+  In which we add the products data in the database by using the command npm start seed then clost the server
  to start the application npm start then check the local host 3001 and check the network tab in the browser the verify the results from the data base. Once seen there check in the insomia.
 
 # User Story
