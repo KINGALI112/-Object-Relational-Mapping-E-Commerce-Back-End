@@ -38,4 +38,4 @@ check insomia results on https://localhost:3001
 
 
 # Contact
-feel free to contact me in case of any query syedali05125569@gmail.com
+feel free to contact me for any questions syedali05125569@gmail.com
